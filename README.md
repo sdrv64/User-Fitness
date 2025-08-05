@@ -1,5 +1,5 @@
 # User Progress App
-
+###### Note: I didn't host the backend so tell me to run the server
 ##### For tracking reps, calories and weight
 
 ## FrontEnd Summerization
@@ -75,3 +75,4 @@
 ![1754225119404](image/README/1754225119404.png)
 
 ![1754225125334](image/README/1754225125334.png)
+
